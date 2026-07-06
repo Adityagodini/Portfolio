@@ -113,8 +113,8 @@ const projects = [
     ],
     desc:"Personal portfolio website.",
     image:"images/portfolio.png",
-    github:"https://github.com/yourrepo",
-    demo:"https://yourdemo.com"
+    github:"https://github.com/Adityagodini/Portfolio",
+    demo:"https://adityagodini.me"
 },
 
 {
